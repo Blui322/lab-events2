@@ -16,7 +16,7 @@ Now that you know how to work with event listeners, you can build a simple pixel
 
 ## Instructions
 
-There are two parts to this lab: Pixel Painter and Tic Tac Toe.
+There are two parts to this lab: Pixel Painter and the Bonus: Tic Tac Toe.
 
 ### Pixel Painter
 
@@ -42,6 +42,8 @@ Attempt to implement _at least one_ of the following features:
 - [ ] Create a button that, when clicked, changes all of the cells so that they match the `#current-color` element's background.
 
 Feel free to add other fun features to build out your pixel painter!
+
+## Bonus
 
 ### Tic Tac Toe
 
